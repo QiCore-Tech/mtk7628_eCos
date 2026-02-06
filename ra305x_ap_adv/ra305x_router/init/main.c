@@ -214,3 +214,7 @@ int main(void)
 	return 0;
 }
 
+void mjh_start(int cmd)
+{
+}
+

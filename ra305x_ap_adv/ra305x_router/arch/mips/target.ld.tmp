@@ -1,4 +1,4 @@
-OUTPUT_FORMAT("elf32-bigmips", "elf32-bigmips",
+OUTPUT_FORMAT("elf32-littlemips", "elf32-bigmips",
               "elf32-littlemips")
 
 

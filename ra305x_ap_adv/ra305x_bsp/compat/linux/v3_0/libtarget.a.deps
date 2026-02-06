@@ -1,0 +1,3 @@
+src/rbtree.o.d:  \
+ /workspace/mtk7628_eCos/packages/compat/linux/v3_0/src/rbtree.c \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/linux/rbtree.h

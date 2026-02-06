@@ -1,0 +1,1 @@
+src/dummy.o.d: /workspace/mtk7628_eCos/packages/hal/common/v3_0/src/dummy.c

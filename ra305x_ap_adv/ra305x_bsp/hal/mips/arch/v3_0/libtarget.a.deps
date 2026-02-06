@@ -1,0 +1,73 @@
+src/hal_misc.o.d:  \
+ /workspace/mtk7628_eCos/packages/hal/mips/arch/v3_0/src/hal_misc.c \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/pkgconf/hal.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/pkgconf/system.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/pkgconf/hal_mips_mips32.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/pkgconf/hal_mips.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/pkgconf/hal_mips_ra305x.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/cyg/infra/cyg_type.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/stddef.h \
+  /workspace/mtk7628_eCos/tools/mipsisa32-elf/bin/../lib/gcc/mipsisa32-elf/4.3.2/include/stddef.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/cyg/hal/basetype.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/cyg/infra/cyg_trac.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/pkgconf/infra.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/cyg/infra/cyg_ass.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/cyg/hal/hal_arch.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/cyg/hal/var_arch.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/cyg/hal/hal_intr.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/cyg/hal/hal_io.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/cyg/hal/plf_io.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/cyg/hal/hal_misc.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/cyg/hal/plf_intr.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/cyg/hal/var_intr.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/cyg/hal/hal_cache.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/cyg/hal/var_cache.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/cyg/hal/mips-regs.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/cyg/hal/plf_cache.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/cyg/hal/hal_if.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/cyg/hal/dbg-threads-api.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/cyg/hal/dbg-thread-syscall.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/stdarg.h \
+  /workspace/mtk7628_eCos/tools/mipsisa32-elf/bin/../lib/gcc/mipsisa32-elf/4.3.2/include/stdarg.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/pkgconf/mlt_mips_ra305x_ram.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/cyg/infra/diag.h
+src/context.o.d:  \
+ /workspace/mtk7628_eCos/packages/hal/mips/arch/v3_0/src/context.S \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/pkgconf/hal.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/pkgconf/system.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/pkgconf/hal_mips_mips32.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/pkgconf/hal_mips.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/pkgconf/hal_mips_ra305x.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/cyg/hal/arch.inc \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/cyg/hal/mips.inc \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/cyg/hal/variant.inc \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/cyg/hal/platform.inc \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/cyg/hal/hal_arch.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/cyg/hal/plf_io.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/cyg/hal/hal_misc.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/cyg/hal/plf_intr.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/cyg/hal/mips-regs.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/cyg/hal/var_arch.h
+src/mips-stub.o.d:  \
+ /workspace/mtk7628_eCos/packages/hal/mips/arch/v3_0/src/mips-stub.c \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/stddef.h \
+  /workspace/mtk7628_eCos/tools/mipsisa32-elf/bin/../lib/gcc/mipsisa32-elf/4.3.2/include/stddef.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/pkgconf/hal.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/pkgconf/system.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/pkgconf/hal_mips_mips32.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/pkgconf/hal_mips.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/pkgconf/hal_mips_ra305x.h
+src/mipsfp.o.d:  \
+ /workspace/mtk7628_eCos/packages/hal/mips/arch/v3_0/src/mipsfp.c \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/pkgconf/hal.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/pkgconf/system.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/pkgconf/hal_mips_mips32.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/pkgconf/hal_mips.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/pkgconf/hal_mips_ra305x.h
+src/hal_syscall.o.d:  \
+ /workspace/mtk7628_eCos/packages/hal/mips/arch/v3_0/src/hal_syscall.c \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/pkgconf/hal.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/pkgconf/system.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/pkgconf/hal_mips_mips32.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/pkgconf/hal_mips.h \
+  /workspace/mtk7628_eCos/ra305x_ap_adv/ra305x_bsp/install/include/pkgconf/hal_mips_ra305x.h
